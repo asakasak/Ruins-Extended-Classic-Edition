@@ -184,7 +184,7 @@
      "uniques": [
                  "Hidden when religion is disabled", 
                  "Only available <after founding a Pantheon>", 
-                 "Only available <after [20] turns>",
+                 "Only available <before founding a religion>",
                  "Gain enough Faith for [25]% of a Great Prophet"
                  ],
   },
@@ -195,7 +195,7 @@
      "uniques": [
                  "Hidden when religion is disabled", 
                  "Only available <after founding a Pantheon>", 
-                 "Only available <after [20] turns>",
+                 "Only available <after before founding a religion>",
                  "Gain enough Faith for [40]% of a Great Prophet"
                  ],
   },
@@ -205,8 +205,8 @@
      "weight": 5
      "uniques": [
                  "Hidden when religion is disabled", 
-                 "Only available <after founding a Pantheon>", 
-                 "Only available <after [20] turns>",
+                 "Only available <after founding a religion>", 
+                 "Only available <before enhancing a religion>",
                  "Gain enough Faith for [60]% of a Great Prophet"
                  ],
   },
@@ -217,7 +217,7 @@
      "uniques": [
                  "Hidden when religion is disabled", 
                  "Only available <after founding a Pantheon>", 
-                 "Only available <after [20] turns>",
+                 "Only available <before enhancing a religion>",
                  "Gain enough Faith for [100]% of a Great Prophet", 
                  ],
   },
