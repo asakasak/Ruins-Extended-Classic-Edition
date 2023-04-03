@@ -195,7 +195,7 @@
      "uniques": [
                  "Hidden when religion is disabled", 
                  "Only available <after founding a Pantheon>", 
-                 "Only available <after before founding a religion>",
+                 "Only available <before founding a religion>",
                  "Gain enough Faith for [40]% of a Great Prophet"
                  ],
   },
