@@ -2,6 +2,12 @@
   {
    "name": "Ancient ruins",
    "terrainsCanBeBuiltOn": ["Land","Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
-   "uniques": ["Unpillagable", "Provides a random bonus when entered", "Unbuildable"]
+   "uniques": 
+    [
+     "Unpillagable", 
+     "Provides a random bonus when entered", 
+     "Unbuildable",
+     "Removes removable features when built"
+    ]
   },
 ]
