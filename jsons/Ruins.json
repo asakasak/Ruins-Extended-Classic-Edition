@@ -328,10 +328,10 @@
   { 
      "name": "advanced weaponry for your explorer", 
      "notification": "Our unit finds advanced weaponry hidden in the ruins!", 
-     "weight": 5
+     "weight": 8
      "uniques": [
                 "This Unit upgrades for free including special upgrades", 
-                "This Unit gains [15] XP"
+                "This Unit gains [150] XP"
                 ] 
      //"excludedDifficulties": ["Settler","Chieftain","Warlord","Prince","King","Emperor","Immortal","Deity"]
   }
